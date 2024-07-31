@@ -1,0 +1,386 @@
+[
+  {
+    "name": "iPhone 11",
+    "price": 699,
+    "company": "apple",
+    "rating": 4.7,
+    "feature": true,
+    "createdAt": "2023-07-15T12:00:00Z"
+  },
+  {
+    "name": "Galaxy S21",
+    "price": 799,
+    "company": "samsung",
+    "rating": 4.6,
+    "feature": false,
+    "createdAt": "2023-07-16T12:00:00Z"
+  },
+  {
+    "name": "OnePlus 9",
+    "price": 729,
+    "company": "oneplus",
+    "rating": 4.5,
+    "feature": true,
+    "createdAt": "2023-07-17T12:00:00Z"
+  },
+  {
+    "name": "Redmi Note 10",
+    "price": 199,
+    "company": "mi",
+    "rating": 4.4,
+    "feature": false,
+    "createdAt": "2023-07-18T12:00:00Z"
+  },
+  {
+    "name": "iPhone 12 Pro",
+    "price": 999,
+    "company": "apple",
+    "rating": 4.9,
+    "feature": true,
+    "createdAt": "2023-07-19T12:00:00Z"
+  },
+  {
+    "name": "Galaxy A52",
+    "price": 399,
+    "company": "samsung",
+    "rating": 4.3,
+    "feature": false,
+    "createdAt": "2023-07-20T12:00:00Z"
+  },
+  {
+    "name": "OnePlus 8T",
+    "price": 599,
+    "company": "oneplus",
+    "rating": 4.6,
+    "feature": true,
+    "createdAt": "2023-07-21T12:00:00Z"
+  },
+  {
+    "name": "Mi 11 Ultra",
+    "price": 749,
+    "company": "mi",
+    "rating": 4.8,
+    "feature": true,
+    "createdAt": "2023-07-22T12:00:00Z"
+  },
+  {
+    "name": "iPhone SE",
+    "price": 399,
+    "company": "apple",
+    "rating": 4.5,
+    "feature": false,
+    "createdAt": "2023-07-23T12:00:00Z"
+  },
+  {
+    "name": "Galaxy Z Fold 2",
+    "price": 1799,
+    "company": "samsung",
+    "rating": 4.7,
+    "feature": true,
+    "createdAt": "2023-07-24T12:00:00Z"
+  },
+  {
+    "name": "OnePlus Nord",
+    "price": 399,
+    "company": "oneplus",
+    "rating": 4.3,
+    "feature": false,
+    "createdAt": "2023-07-25T12:00:00Z"
+  },
+  {
+    "name": "Redmi 9",
+    "price": 149,
+    "company": "mi",
+    "rating": 4.2,
+    "feature": false,
+    "createdAt": "2023-07-26T12:00:00Z"
+  },
+  {
+    "name": "iPhone XR",
+    "price": 499,
+    "company": "apple",
+    "rating": 4.4,
+    "feature": true,
+    "createdAt": "2023-07-27T12:00:00Z"
+  },
+  {
+    "name": "Galaxy S20 FE",
+    "price": 699,
+    "company": "samsung",
+    "rating": 4.6,
+    "feature": true,
+    "createdAt": "2023-07-28T12:00:00Z"
+  },
+  {
+    "name": "OnePlus 7T",
+    "price": 549,
+    "company": "oneplus",
+    "rating": 4.5,
+    "feature": false,
+    "createdAt": "2023-07-29T12:00:00Z"
+  },
+  {
+    "name": "Mi Note 10",
+    "price": 399,
+    "company": "mi",
+    "rating": 4.4,
+    "feature": false,
+    "createdAt": "2023-07-30T12:00:00Z"
+  },
+  {
+    "name": "iPhone 12 Mini",
+    "price": 729,
+    "company": "apple",
+    "rating": 4.7,
+    "feature": true,
+    "createdAt": "2023-07-31T12:00:00Z"
+  },
+  {
+    "name": "Galaxy M31",
+    "price": 249,
+    "company": "samsung",
+    "rating": 4.3,
+    "feature": false,
+    "createdAt": "2023-08-01T12:00:00Z"
+  },
+  {
+    "name": "OnePlus 6",
+    "price": 469,
+    "company": "oneplus",
+    "rating": 4.4,
+    "feature": false,
+    "createdAt": "2023-08-02T12:00:00Z"
+  },
+  {
+    "name": "Mi A3",
+    "price": 199,
+    "company": "mi",
+    "rating": 4.3,
+    "feature": false,
+    "createdAt": "2023-08-03T12:00:00Z"
+  },
+  {
+    "name": "iPhone XS",
+    "price": 899,
+    "company": "apple",
+    "rating": 4.6,
+    "feature": true,
+    "createdAt": "2023-08-04T12:00:00Z"
+  },
+  {
+    "name": "Galaxy Note 20",
+    "price": 999,
+    "company": "samsung",
+    "rating": 4.7,
+    "feature": true,
+    "createdAt": "2023-08-05T12:00:00Z"
+  },
+  {
+    "name": "OnePlus 5",
+    "price": 449,
+    "company": "oneplus",
+    "rating": 4.3,
+    "feature": false,
+    "createdAt": "2023-08-06T12:00:00Z"
+  },
+  {
+    "name": "Redmi 8",
+    "price": 129,
+    "company": "mi",
+    "rating": 4.2,
+    "feature": false,
+    "createdAt": "2023-08-07T12:00:00Z"
+  },
+  {
+    "name": "iPhone 13 Pro",
+    "price": 1099,
+    "company": "apple",
+    "rating": 4.9,
+    "feature": true,
+    "createdAt": "2023-08-08T12:00:00Z"
+  },
+  {
+    "name": "Galaxy S21 Ultra",
+    "price": 1199,
+    "company": "samsung",
+    "rating": 4.8,
+    "feature": true,
+    "createdAt": "2023-08-09T12:00:00Z"
+  },
+  {
+    "name": "OnePlus 7 Pro",
+    "price": 699,
+    "company": "oneplus",
+    "rating": 4.6,
+    "feature": false,
+    "createdAt": "2023-08-10T12:00:00Z"
+  },
+  {
+    "name": "Mi Mix 3",
+    "price": 499,
+    "company": "mi",
+    "rating": 4.5,
+    "feature": false,
+    "createdAt": "2023-08-11T12:00:00Z"
+  },
+  {
+    "name": "iPhone 14",
+    "price": 1199,
+    "company": "apple",
+    "rating": 4.8,
+    "feature": true,
+    "createdAt": "2023-08-12T12:00:00Z"
+  },
+  {
+    "name": "Galaxy A72",
+    "price": 499,
+    "company": "samsung",
+    "rating": 4.4,
+    "feature": false,
+    "createdAt": "2023-08-13T12:00:00Z"
+  },
+  {
+    "name": "OnePlus 8 Pro",
+    "price": 899,
+    "company": "oneplus",
+    "rating": 4.7,
+    "feature": true,
+    "createdAt": "2023-08-14T12:00:00Z"
+  },
+  {
+    "name": "Redmi Note 9 Pro",
+    "price": 249,
+    "company": "mi",
+    "rating": 4.5,
+    "feature": false,
+    "createdAt": "2023-08-15T12:00:00Z"
+  },
+  {
+    "name": "iPhone XS Max",
+    "price": 1099,
+    "company": "apple",
+    "rating": 4.7,
+    "feature": true,
+    "createdAt": "2023-08-16T12:00:00Z"
+  },
+  {
+    "name": "Galaxy S10 Plus",
+    "price": 849,
+    "company": "samsung",
+    "rating": 4.6,
+    "feature": true,
+    "createdAt": "2023-08-17T12:00:00Z"
+  },
+  {
+    "name": "OnePlus 3T",
+    "price": 439,
+    "company": "oneplus",
+    "rating": 4.3,
+    "feature": false,
+    "createdAt": "2023-08-18T12:00:00Z"
+  },
+  {
+    "name": "Mi 9T Pro",
+    "price": 449,
+    "company": "mi",
+    "rating": 4.4,
+    "feature": false,
+    "createdAt": "2023-08-19T12:00:00Z"
+  },
+  {
+    "name": "iPhone X",
+    "price": 999,
+    "company": "apple",
+    "rating": 4.6,
+    "feature": true,
+    "createdAt": "2023-08-20T12:00:00Z"
+  },
+  {
+    "name": "Galaxy A50",
+    "price": 349,
+    "company": "samsung",
+    "rating": 4.3,
+    "feature": false,
+    "createdAt": "2023-08-21T12:00:00Z"
+  },
+  {
+    "name": "OnePlus 7",
+    "price": 599,
+    "company": "oneplus",
+    "rating": 4.5,
+    "feature": false,
+    "createdAt": "2023-08-22T12:00:00Z"
+  },
+  {
+    "name": "Mi 8",
+    "price": 399,
+    "company": "mi",
+    "rating": 4.4,
+    "feature": false,
+    "createdAt": "2023-08-23T12:00:00Z"
+  },
+  {
+    "name": "iPhone 13 Mini",
+    "price": 799,
+    "company": "apple",
+    "rating": 4.7,
+    "feature": true,
+    "createdAt": "2023-08-24T12:00:00Z"
+  },
+  {
+    "name": "Galaxy S9",
+    "price": 599,
+    "company": "samsung",
+    "rating": 4.5,
+    "feature": false,
+    "createdAt": "2023-08-25T12:00:00Z"
+  },
+  {
+    "name": "OnePlus 6T",
+    "price": 579,
+    "company": "oneplus",
+    "rating": 4.6,
+    "feature": true,
+    "createdAt": "2023-08-26T12:00:00Z"
+  },
+  {
+    "name": "Redmi K20 Pro",
+    "price": 369,
+    "company": "mi",
+    "rating": 4.3,
+    "feature": false,
+    "createdAt": "2023-08-27T12:00:00Z"
+  },
+  {
+    "name": "iPhone 11 Pro",
+    "price": 1099,
+    "company": "apple",
+    "rating": 4.8,
+    "feature": true,
+    "createdAt": "2023-08-28T12:00:00Z"
+  },
+  {
+    "name": "Galaxy M21",
+    "price": 229,
+    "company": "samsung",
+    "rating": 4.4,
+    "feature": false,
+    "createdAt": "2023-08-29T12:00:00Z"
+  },
+  {
+    "name": "OnePlus 5T",
+    "price": 479,
+    "company": "oneplus",
+    "rating": 4.4,
+    "feature": false,
+    "createdAt": "2023-08-30T12:00:00Z"
+  },
+  {
+    "name": "Mi 10",
+    "price": 499,
+    "company": "mi",
+    "rating": 4.6,
+    "feature": true,
+    "createdAt": "2023-08-31T12:00:00Z"
+  }
+]

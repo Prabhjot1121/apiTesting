@@ -20,6 +20,6 @@ app.use('/api/products', products_api);
         });
     } catch (error) {
         console.error("Failed to connect to the database:", error.message);
-        process.exit(1); // Exit the process with failure
+        process.exit(1);
     }
 })();
